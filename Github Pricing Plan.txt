@@ -1,0 +1,67 @@
+github pricing plan depends on specific need such as no. of users,level of colaboration required and the feature
+we need.
+there are three plans available in gitbut
+1. Free plan ---$0 per user/month 
+2. Team plan ---$4 per user/month
+3. Enterprise plan ---$21 per user/month
+
+*  in free plan we get  free access of github with limited features such as we get Unlimited public/private
+   repositories, 2,000 Actions minutes/month, 500MB of GitHub Packages storage.
+  
+and it is beneficial for very small team and who dont requires advance features and heavy use of ci/cd pipelines.
+
+*  in Team plan we get 
+-Features:
+   Everything in Free Plan
+   3,000 Actions minutes/month
+   2GB of GitHub Packages storage
+   Code owners
+   Team access controls
+   Required pull request reviewers
+
+and it is best for Small to medium-sized teams that need more collaboration tools and slightly increased resources
+for CI/CD.
+
+*  in Enterprise Plan we get 
+-Features:
+   Everything in Team Plan
+   50,000 Actions minutes/month
+   50GB of GitHub Packages storage
+   SAML single sign-on
+   99.95% uptime SLA
+   Advanced auditing and security features
+
+
+this plan is usually used by Larger organizations or those requiring robust security, compliance, and support 
+features.
+
+
+WHY TEAM PLAN IS BETTER--
+
+-Enhanced Collaboration: like required pull request reviewers and code owners, which help maintain code quality
+                         and streamline the review process.
+-Access Controls: we get more granular team access control, essential for managing permissions and
+                  ensuring that team members have the right level of access to repositories.
+-Increased CI/CD Resources: With 3,000 Actions minutes per month, you have more resources for continuous integration
+                           and deployment, which can be crucial for maintaining and testing your projects.
+-Affordability: At $4 per user/month, it’s a cost-effective solution
+
+
+HOW IT'S BETTER--
+
+-Scalibility: it supports small to medium size teams and it can be expandable depending of the users and size.
+-Cost Effective: it offeres good mix of features at reasonable price point.
+-its fetaures: it provide necessary features like team access control, pull request review
+-Resources: provide more ci/cd resources than free plan which is efficient for development and deployment workflow.
+
+
+
+
+-- For us, the Team Plan is often sufficient, offering essential collaboration and 
+   CI/CD features at a reasonable price. It provides a good balance of functionality and cost,
+   making it ideal for small to medium-sized teams.
+
+-- while the The Enterprise Plan, while more expensive, is designed for larger organizations or those with specific
+   needs around security, compliance, and extensive CI/CD resources. 
+   It offers advanced features and support that ensure robust and secure development practices.
+
